@@ -1,3 +1,3 @@
 # ikaruga
 
-ikaruga.org
+[ikaruga.org](https://ikaruga.org)
